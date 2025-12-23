@@ -1,0 +1,25 @@
+# ninja log v5
+56	5975	7870623393649721	CMakeFiles/classes.dir/myArray.cpp.obj	4cdd5374f2e981ab
+16	1767	7870623351697309	CMakeFiles/classes.dir/queue.cpp.obj	34cee3f30627859a
+37	10617	7870623440179694	CMakeFiles/classes.dir/main.cpp.obj	46e865ed7ec621d3
+10618	11631	7870623450108169	classes.exe	dfe89a1a1f094675
+36	1327	7870623895006920	CMakeFiles/classes.dir/queue.cpp.obj	34cee3f30627859a
+15	4821	7870623929849424	CMakeFiles/classes.dir/myArray.cpp.obj	4cdd5374f2e981ab
+56	8671	7870623968421941	CMakeFiles/classes.dir/main.cpp.obj	46e865ed7ec621d3
+8672	9466	7870623976249606	classes.exe	dfe89a1a1f094675
+43	1375	7870624764966403	CMakeFiles/classes.dir/queue.cpp.obj	34cee3f30627859a
+22	4876	7870624799884141	CMakeFiles/classes.dir/myArray.cpp.obj	4cdd5374f2e981ab
+64	8756	7870624838749028	CMakeFiles/classes.dir/main.cpp.obj	46e865ed7ec621d3
+8757	9584	7870624846899945	classes.exe	dfe89a1a1f094675
+41	1489	7870625235739832	CMakeFiles/classes.dir/queue.cpp.obj	34cee3f30627859a
+17	5248	7870625273251462	CMakeFiles/classes.dir/myArray.cpp.obj	4cdd5374f2e981ab
+64	9127	7870625312125269	CMakeFiles/classes.dir/main.cpp.obj	46e865ed7ec621d3
+9127	9917	7870625319897390	classes.exe	dfe89a1a1f094675
+37	1365	7870625666748877	CMakeFiles/classes.dir/queue.cpp.obj	34cee3f30627859a
+55	4877	7870625701745217	CMakeFiles/classes.dir/myArray.cpp.obj	4cdd5374f2e981ab
+15	8639	7870625739499518	CMakeFiles/classes.dir/main.cpp.obj	46e865ed7ec621d3
+8640	9433	7870625747308161	classes.exe	dfe89a1a1f094675
+13	526	7870653193126370	CMakeFiles/classes.dir/queue.cpp.obj	34cee3f30627859a
+5	1837	7870653206251011	CMakeFiles/classes.dir/myArray.cpp.obj	4cdd5374f2e981ab
+20	2985	7870653217762033	CMakeFiles/classes.dir/main.cpp.obj	46e865ed7ec621d3
+2986	3228	7870653220146745	classes.exe	dfe89a1a1f094675
